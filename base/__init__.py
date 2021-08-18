@@ -14,3 +14,4 @@ db = SQLAlchemy(app)
 print("in base")
 
 import base.com.controller
+import base.com.vo
